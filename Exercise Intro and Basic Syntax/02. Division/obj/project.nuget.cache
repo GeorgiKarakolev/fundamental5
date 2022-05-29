@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "xmIrAo7R0VZ3qfbhs+AV/CvH6cGfgPqRRdZe6iWrPtrhFF7dgplL2FU3u/f0SzjJ8gmVaiFAyv6Bik4zqqOQVw==",
+  "success": true,
+  "projectFilePath": "D:\\Visual Studio\\Exercise Intro and Basic Syntax\\02. Division\\02. Division.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Георги\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Георги\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Георги\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Георги\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
